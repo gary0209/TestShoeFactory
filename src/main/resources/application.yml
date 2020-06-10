@@ -1,0 +1,9 @@
+
+shoe:
+  max-produce: 800
+
+box:
+  max-produce: 1000
+
+combine:
+  max-produce: 700
